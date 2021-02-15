@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SnowFlake">
+        <attr name="sf_snowflakeColor" format="color" />
+        <attr name="sf_snowflakeScaleMultiplier" format="float" />
+    </declare-styleable>
+</resources>
